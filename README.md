@@ -57,7 +57,7 @@ Người xem có thể theo dõi repo theo các bước sau:
 
 1. Xem phần **Danh sách Dashboard**.
 2. Chọn dashboard muốn xem.
-3. Nhấn vào link **Xem Dashboard** ở cột cuối cùng.
+3. Nhấn vào link **Xem Dashboard** ở cột cuối cùng, nên sử dụng Ctrl + Click để mở tab mới, thời gian chờ onhandBi thường là tầm 15s để load dashboard.
 4. Tương tác với dashboard bằng các bộ lọc, biểu đồ và KPI cards.
 5. Đánh giá dashboard theo mục tiêu kinh doanh, cấu trúc phân tích và mức độ dễ hiểu của insight.
 
