@@ -82,14 +82,3 @@ Dashboard này hỗ trợ theo dõi hiệu quả bán hàng của doanh nghiệp
 ### 7.5. Reinsurance Analytics Dashboard
 
 Dashboard này tập trung vào phân tích dữ liệu tái bảo hiểm, giúp theo dõi hiệu quả hoạt động, rủi ro, doanh thu và các chỉ số quan trọng trong nghiệp vụ tái bảo hiểm.
-
-## 8. Mục đích Portfolio
-
-Repo này đóng vai trò là portfolio dashboard cá nhân, thể hiện kinh nghiệm thực hành trong phân tích dữ liệu, trực quan hóa dữ liệu và xây dựng dashboard phục vụ nhu cầu kinh doanh.
-
-Thông qua các dashboard này, tôi muốn thể hiện khả năng không chỉ xử lý và trực quan hóa dữ liệu, mà còn hiểu bài toán kinh doanh, lựa chọn chỉ số phù hợp và truyền tải insight một cách rõ ràng, dễ sử dụng cho stakeholder.
-
-## 9. Liên hệ
-
-**Hoang Viet Hung**  
-Email: vhungy302@gmail.com
